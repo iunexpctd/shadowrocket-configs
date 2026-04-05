@@ -1,7 +1,8 @@
-# NAME: domains_itms-services.list
+# NAME: domains_itms-services
 # AUTHOR: unexpctd
-# REPO: https://github.com/iunexpctd/SRconfigs
-# SOURCE:
+# REPO: https://github.com/iunexpctd/shadowrocket-configs
+# SOURCE: https://github.com/iunexpctd/shadowrocket-configs/edit/main/domains_itms-services
+# rules
 DOMAIN-SUFFIX,plist,PROXY
 DOMAIN-SUFFIX,manifest,PROXY
 DOMAIN-SUFFIX,install,PROXY
