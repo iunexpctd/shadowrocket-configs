@@ -3,11 +3,11 @@
 # REPO: https://github.com/iunexpctd/shadowrocket-configs
 # SOURCE: https://github.com/iunexpctd/shadowrocket-configs/edit/main/domains_itms-services
 # rules
-DOMAIN-SUFFIX,plist,PROXY
-DOMAIN-SUFFIX,manifest,PROXY
-DOMAIN-SUFFIX,install,PROXY
-DOMAIN-KEYWORD,itms-services,PROXY
-DOMAIN-KEYWORD,esign,PROXY
-DOMAIN-KEYWORD,feather,PROXY
-DOMAIN-KEYWORD,ipa,PROXY
-DOMAIN-KEYWORD,gbox,PROXY
+DOMAIN-SUFFIX,plist
+DOMAIN-SUFFIX,manifest
+DOMAIN-SUFFIX,install
+DOMAIN-KEYWORD,itms-services
+DOMAIN-KEYWORD,esign
+DOMAIN-KEYWORD,feather
+DOMAIN-KEYWORD,ipa
+DOMAIN-KEYWORD,gbox
