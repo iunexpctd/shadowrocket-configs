@@ -1,0 +1,12 @@
+# NAME: domains_itms-services.list
+# AUTHOR: unexpctd
+# REPO: https://github.com/iunexpctd/SRconfigs
+# SOURCE:
+DOMAIN-SUFFIX,plist,PROXY
+DOMAIN-SUFFIX,manifest,PROXY
+DOMAIN-SUFFIX,install,PROXY
+DOMAIN-KEYWORD,itms-services,PROXY
+DOMAIN-KEYWORD,esign,PROXY
+DOMAIN-KEYWORD,feather,PROXY
+DOMAIN-KEYWORD,ipa,PROXY
+DOMAIN-KEYWORD,gbox,PROXY
